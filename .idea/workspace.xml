@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d85b4155-d04a-4de4-8c0e-a18cce352d73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bankstatement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bankstatement/com/company/BankStatemenProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bankstatement/com/company/BankStatementAnalyzer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bankstatement/com/company/BankStatementCSVParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bankstatement/com/company/BankStatementParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bankstatement/com/company/BankTransaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bankstatement/com/company/BankTransactionFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bankstatement/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bankstatement/resources/statement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bankstatement/test/BankStatementParserTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BankStatemenProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BankStatementAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BankStatementCSVParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BankStatementParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BankTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BankTransactionFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/statement.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BankStatementParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="315">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -222,7 +198,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551041171175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551041334686" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -304,10 +280,10 @@
       <window_info id="Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33712983" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33712983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -421,8 +397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
